@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Crystal Clear (劇集《新聞女王》片尾曲)",
+  "base_artist": "Gigi 炎明熹",
+  "createdAt": "2026-03-17T14:24:23.337425Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Crystal Clear Ice",
+      "artist": "Yung Lean",
+      "has_synced": false,
+      "path": "select/01_Crystal_Clear_Ice_Yung_Lean.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Crystal Clear",
+      "artist": "The Fiery Furnaces",
+      "has_synced": true,
+      "path": "select/02_Crystal_Clear_The_Fiery_Furnaces.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Crystal Clear",
+      "artist": "Overkill",
+      "has_synced": false,
+      "path": "select/03_Crystal_Clear_Overkill.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Calm And Crystal Clear",
+      "artist": "Missy Higgins",
+      "has_synced": false,
+      "path": "select/04_Calm_And_Crystal_Clear_Missy_Higgins.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Crystal Clear (B-side; 2016 Remaster)",
+      "artist": "Phil Collins",
+      "has_synced": true,
+      "path": "select/05_Crystal_Clear_(B-side;_2016_Remaster)_Phil_Collins.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Crystal Clear",
+      "artist": "Hayley Williams",
+      "has_synced": true,
+      "path": "select/06_Crystal_Clear_Hayley_Williams.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Crystal Clear (B Side)",
+      "artist": "Phil Collins",
+      "has_synced": false,
+      "path": "select/07_Crystal_Clear_(B_Side)_Phil_Collins.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Crystal Clear W/ Guardin",
+      "artist": "sadeyes",
+      "has_synced": false,
+      "path": "select/08_Crystal_Clear_W__Guardin_sadeyes.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Crystal Clear",
+      "artist": "Phil Collins",
+      "has_synced": false,
+      "path": "select/09_Crystal_Clear_Phil_Collins.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Crystal Clear",
+      "artist": "Statik Selektah feat. Royce da 5'9",
+      "has_synced": true,
+      "path": "select/10_Crystal_Clear_Statik_Selektah_feat._Royce_da_5'9.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Crystal Clear",
+      "artist": "Statik Selektah/Royce da 5′9″",
+      "has_synced": true,
+      "path": "select/11_Crystal_Clear_Statik_Selektah_Royce_da_5′9′′.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Crystal Clear",
+      "artist": "Young Guns",
+      "has_synced": true,
+      "path": "select/12_Crystal_Clear_Young_Guns.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Crystal Clear (B-side)",
+      "artist": "Phil Collins",
+      "has_synced": true,
+      "path": "select/13_Crystal_Clear_(B-side)_Phil_Collins.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Crystal Clear",
+      "artist": "Chris Travis",
+      "has_synced": false,
+      "path": "select/14_Crystal_Clear_Chris_Travis.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Crystal Clear",
+      "artist": "X-Ray Spex",
+      "has_synced": true,
+      "path": "select/15_Crystal_Clear_X-Ray_Spex.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Crystal Clear",
+      "artist": "Jaci Velasquez",
+      "has_synced": false,
+      "path": "select/16_Crystal_Clear_Jaci_Velasquez.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Crystal Clear - B-side; 2016 Remaster",
+      "artist": "Phil Collins",
+      "has_synced": false,
+      "path": "select/17_Crystal_Clear_-_B-side;_2016_Remaster_Phil_Collins.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Crystal Clear / Muddy Waters",
+      "artist": "Sonny & Cher",
+      "has_synced": false,
+      "path": "select/18_Crystal_Clear___Muddy_Waters_Sonny_&_Cher.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "A Castle So Crystal Clear",
+      "artist": "Vinterland",
+      "has_synced": false,
+      "path": "select/19_A_Castle_So_Crystal_Clear_Vinterland.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Crystal Clear - 劇集《新聞女王》片尾曲",
+      "artist": "Gigi炎明熹",
+      "has_synced": false,
+      "path": "select/pl_01_Crystal_Clear_-_劇集《新聞女王》片尾曲_Gigi炎明熹.txt"
+    }
+  ]
+}
